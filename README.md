@@ -1,3 +1,5 @@
+# Data Analysis on Death Rate by Disease
+
 ### Problem Statement
 Disease can change the picture  of world. As we saw that covid have shaken the world and took millions of lives.in 2019 and 2020 gdp of all the country decrease significantly and now the death rate of covid reduced and gdp become normal again.but the cost of product increased around 1.2 times.
 
